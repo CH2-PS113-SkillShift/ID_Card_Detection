@@ -13,3 +13,7 @@ __pycache__/
 
 # Ignore the generated_dataset folder
 generated_dataset/
+
+# TensorFlow training results
+*.pb
+*.h5
