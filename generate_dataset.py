@@ -47,7 +47,7 @@ def generate_random_image(
 
 
 # Generate dataset
-dataset_size = 10000
+dataset_size = 50000
 output_folder = "generated_dataset"
 font_path1 = "arial.ttf"
 font_path2 = "OCRAEXT.TTF"
